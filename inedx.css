@@ -2,10 +2,7 @@ h1{
     
     text-decoration: underline;
 }
-input{
-    padding: 9px;
-    width: 243px
-}
+
 #btn{
     padding: 10px;
     background-color: aqua;
@@ -15,4 +12,9 @@ input{
     margin-top: 10px;
     height: 400px;
     width: 400px;
+}
+span{
+    padding: 9px;
+    border: 2px solid black;
+    color: gray;
 }
